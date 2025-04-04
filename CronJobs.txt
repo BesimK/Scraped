@@ -1,0 +1,5 @@
+domains/supellex.store/public_html/bulten/bin/console mautic:campaigns:update
+domains/supellex.store/public_html/bulten/bin/console mautic:segments:update
+domains/supellex.store/public_html/bulten/bin/console mautic:campaigns:trigger
+domains/supellex.store/public_html/bulten/bin/console mautic:emails:send
+domains/supellex.store/public_html/bulten/bin/console mautic:email:fetch
